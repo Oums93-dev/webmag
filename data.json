@@ -1,0 +1,85 @@
+{
+  "magCAN": {
+    "titreMag": "Les Qualifications de la CAN 2025",
+    "slogan": "Tout savoir sur les qualifications : groupes, résultats et performances",
+    "invitationAbonnement": "Abonnez-vous pour rester informé des dernières nouvelles et analyses des qualifications",
+    "articleVedette": {
+      "titrePrincipal": "Les favoris des qualifications : Qui se démarque dans chaque groupe ?",
+      "resume": "Analyse des équipes leaders et des surprises de la phase qualificative.",
+      "datePublication": "1er Décembre 2024",
+      "categorie": "Prévisions et analyses",
+      "illustration": "images/favoris_qualifs.png"
+    },
+    "articlesTournoi": [
+      {
+        "titreArticle": "Les matchs décisifs des qualifications",
+        "datePublication": "28 Novembre 2024",
+        "categorie": "Calendrier et rencontres",
+        "illustration": "images/matchs_decisifs.png"
+      },
+      {
+        "titreArticle": "Les joueurs en forme de la phase qualificative",
+        "datePublication": "20 Novembre 2024",
+        "categorie": "Focus joueurs",
+        "illustration": "images/joueurs_forme.png"
+      },
+      {
+        "titreArticle": "Les surprises des qualifications : équipes inattendues",
+        "datePublication": "15 Novembre 2024",
+        "categorie": "Moments marquants",
+        "illustration": "images/surprises_qualifs.png"
+      },
+      {
+        "titreArticle": "Les groupes les plus compétitifs de cette édition",
+        "datePublication": "10 Novembre 2024",
+        "categorie": "Analyse des groupes",
+        "illustration": "images/groupes_competitifs.png"
+      },
+      {
+        "titreArticle": "Les rivalités classiques revisitées en qualifications",
+        "datePublication": "5 Novembre 2024",
+        "categorie": "Rivalités et mythes",
+        "illustration": "images/rivalites_qualifs.png"
+      }
+    ],
+    "categoriesCAN": [
+      {
+        "nomCategorie": "Prévisions et analyses",
+        "descriptionCategorie": "Analyse des équipes dominantes, des outsiders et des résultats attendus."
+      },
+      {
+        "nomCategorie": "Focus joueurs",
+        "descriptionCategorie": "Portraits des stars et révélations des qualifications."
+      },
+      {
+        "nomCategorie": "Moments marquants",
+        "descriptionCategorie": "Revivez les matchs et actions clés des qualifications."
+      },
+      {
+        "nomCategorie": "Analyse des groupes",
+        "descriptionCategorie": "Explorez les dynamiques et performances de chaque groupe."
+      },
+      {
+        "nomCategorie": "Calendrier et rencontres",
+        "descriptionCategorie": "Suivez les dates clés et les résultats des qualifications."
+      }
+    ],
+    "expertsCAN": [
+      {
+        "prenomExpert": "Moussa",
+        "expertise": "Analyste sportif",
+        "bio": "Je décompose les performances des équipes et analyse les statistiques de la phase qualificative."
+      },
+      {
+        "prenomExpert": "Fatou",
+        "expertise": "Ancienne joueuse internationale",
+        "bio": "J'apporte mon expérience pour discuter des enjeux des qualifications et des meilleures équipes."
+      },
+      {
+        "prenomExpert": "Amadou",
+        "expertise": "Historien du football africain",
+        "bio": "J'explore l'histoire et le contexte des qualifications pour mieux comprendre leur importance."
+      }
+    ]
+  }
+}
